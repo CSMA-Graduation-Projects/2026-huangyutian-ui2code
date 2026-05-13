@@ -9,3 +9,4 @@ openai
 python-multipart
 ultralytics
 scikit-image
+playwright
