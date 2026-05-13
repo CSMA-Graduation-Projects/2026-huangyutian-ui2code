@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+python-dotenv
+pillow
+opencv-python
+numpy
+requests
+openai
+python-multipart
+ultralytics
+scikit-image
