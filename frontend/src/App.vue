@@ -927,7 +927,7 @@ const uploadImage = async () => {
 
     uploadController = new AbortController()
     
-    const res = await fetch("https://two026-huangyutian-ui2code.onrender.com", {
+   const res = await fetch("https://two026-huangyutian-ui2code.onrender.com/upload", {
       method: "POST",
       body: formData,
       signal: uploadController.signal
